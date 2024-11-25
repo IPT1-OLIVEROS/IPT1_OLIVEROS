@@ -1,0 +1,1 @@
+// I do have 1 javascript on my html/project-2/script.js
